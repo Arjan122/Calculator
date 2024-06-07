@@ -1,0 +1,31 @@
+.center{
+    margin: auto;
+    width: 400px;
+    height: 500px;
+    position: relative;
+    text-align: center;
+    padding: 20px;
+    background-color: dimgray;
+    box-shadow: 7px 7px 7px gray;
+    border-radius: 10px;
+}
+
+button{
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+}
+
+#text1{
+    width: 350px;
+    height: 100px;
+    background-color: white;
+}
+
+.move1{
+    margin-top: 50px;
+}
+
+input{
+    font-size: 40px;
+}
